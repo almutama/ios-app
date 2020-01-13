@@ -1342,7 +1342,6 @@ extension ConversationViewController {
         }
         var contentViews = [
             cell.contentImageView,
-            cell.shadowImageView,
             cell.timeLabel,
             cell.statusImageView
         ]
