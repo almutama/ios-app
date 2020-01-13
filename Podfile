@@ -26,6 +26,7 @@ target 'Mixin' do
   pod 'GoogleWebRTC'
   pod 'AlignedCollectionViewFlowLayout'
   pod 'R.swift'
+  pod 'SwiftyMarkdown'
   mixin_services
 end
 
